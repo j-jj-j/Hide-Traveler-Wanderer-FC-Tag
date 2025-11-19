@@ -7,7 +7,7 @@
     "Description": "Simple Dalamud plugin that hides the «Traveler» / «Wanderer» / «FC» tags from player nameplates on your client only.",
     "RepoUrl": "https://github.com/j-jㅓ-j/Hide-Traveler-Wanderer-FC-Tag",
 
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "0.0.0.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
 
@@ -21,4 +21,5 @@
     "LastUpdate": "1732041600"
   }
 ]
+
 
