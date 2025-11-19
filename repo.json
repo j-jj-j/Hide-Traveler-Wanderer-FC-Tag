@@ -11,8 +11,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
 
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/j-jㅓ-j/Hide-Traveler-Wanderer-FC-Tag/main/HideTravelerWandererFCTag/HideTravelerWandererFCTag.zip",
-    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/j-jㅓ-j/Hide-Traveler-Wanderer-FC-Tag/main/HideTravelerWandererFCTag/HideTravelerWandererFCTag.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/j-jj-j/Hide-Traveler-Wanderer-FC-Tag/main/HideTravelerWandererFCTag/HideTravelerWandererFCTag.zip",
+    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/j-jj-j/Hide-Traveler-Wanderer-FC-Tag/main/HideTravelerWandererFCTag/HideTravelerWandererFCTag.zip",
     "DownloadLinkTesting": null,
 
     "IconUrl": "",
@@ -21,3 +21,4 @@
     "LastUpdate": "1732041600"
   }
 ]
+
