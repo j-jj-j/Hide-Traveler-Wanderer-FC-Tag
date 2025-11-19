@@ -7,10 +7,13 @@
   "RepoUrl": "https://github.com/j-jj-j/Hide-Traveler-Wanderer-FC-Tag",
   "AssemblyVersion": "1.0.0.0",
   "DalamudApiLevel": 13,
-  "DownloadLinkInstall": "HiderTravelerWandererFCTag/HideTravelerWandererFCTag.zip",
-  "DownloadLinkUpdate": "HiderTravelerWandererFCTag/HideTravelerWandererFCTag.zip"
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/j-j-j-j/Hide-Traveler-Wanderer-FC-Tag/main/HiderTravelerWandererFCTag/HideTravelerWandererFCTag.zip
+",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/j-j-j-j/Hide-Traveler-Wanderer-FC-Tag/main/HiderTravelerWandererFCTag/HideTravelerWandererFCTag.zip
+"
 
 }
+
 
 
 
